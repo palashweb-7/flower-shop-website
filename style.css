@@ -113,6 +113,7 @@
 .end-page{
     background-color: black;
     height: 200px;
+    margin-top: 70px;
    
 }
 .end-page-two{
@@ -121,4 +122,19 @@
 }
 .section-description-new{
     color: darkgrey;
+}
+.input{
+    display:block;
+  margin-left: 300px;
+   margin-top: 3px; 
+  border: 0;
+  height:25px ;
+  width: 250px;
+  border-radius: 15px;
+  padding: 5px 18px;
+}
+.extra-extra{
+    background-color: darkgrey;
+    margin: 0 200px;
+    height: 250px;
 }
