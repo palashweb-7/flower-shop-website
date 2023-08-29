@@ -1,5 +1,6 @@
 *{
     font-family: 'Open Sans', sans-serif;
+    padding: 0;
    
 }
 .flower-shop{
@@ -17,12 +18,12 @@
 .flower-hline{
     font-size:48px ;
     font-weight:700 ;
-    color: ;
+    
 }
 .flower-description{
     color: #757575;
 }
-.button-primary{
+.button-primary, .btn{
     background-color:#e55473;
     color: white;
     padding: 7px;
@@ -57,7 +58,7 @@
     border-radius:100% 100% 0 0 ;
     padding-top: 70px;
 }
-.flower-hdiv img {
+.flower-hdiv  {
     /* width: 200px 300px; */
 }
 .section-title{
@@ -89,10 +90,35 @@
     justify-content: space-around;
   
 }
-.flower-hline-1{
-    font-size: 24px;
-}
-.four-flower-flex{
-    margin-top: 80px;
+.flower-division{
     display: flex;
+    align-items: center;
+    gap: 50px;
+    margin: 0 200px;
+  }
+.flower-house{
+   
+}
+.background-img{
+    background-image: url('Flower Asset/Rectangle\ 9.png');
+    margin: 0 200px;
+    height: 250px;
+}
+.button{
+    align-items: center;
+    justify-content: center;
+    padding-left:300px ;
+    margin-bottom: 20px;
+}
+.end-page{
+    background-color: black;
+    height: 200px;
+   
+}
+.end-page-two{
+    margin: 0 400px;
+    text-align: center;
+}
+.section-description-new{
+    color: darkgrey;
 }
