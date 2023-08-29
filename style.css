@@ -1,0 +1,94 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+   
+}
+.flower-shop{
+   
+    background-color: #fff8f3;
+   
+}
+.flower-container{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin: 0 200px;
+
+}
+.flower-hline{
+    font-size:48px ;
+    font-weight:700 ;
+    color: ;
+}
+.flower-description{
+    color: #757575;
+}
+.button-primary{
+    background-color:#e55473;
+    color: white;
+    padding: 7px;
+    border: 0;
+    font-weight: 600;
+}
+.main-section{
+   margin-top: 60px;
+}
+.flower-hdiv{
+  
+   display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    margin: 0 200px;
+    gap: 25px;
+}
+.jarbala{
+    background-color: rgb(230, 220, 209);
+    border-radius:100% 100% 0 0 ;
+    padding-top: 50px;
+   
+}
+.golap{
+    background-color: rgb(246, 246, 251);
+    border-radius:100% 100% 0 0 ;
+    padding-top: 50px;
+}
+.shapla{
+    background-color: rgb(232, 237, 245);
+   
+    border-radius:100% 100% 0 0 ;
+    padding-top: 70px;
+}
+.flower-hdiv img {
+    /* width: 200px 300px; */
+}
+.section-title{
+    font-size:35px ;
+    color: black;
+    text-align: center;
+    font-weight: 700;
+}
+.section-description{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: #757575;
+}
+.style-3, a{
+    text-align: center;
+    color: #757575;
+}
+.extra{
+    background-color: rgb(243, 232, 232);
+    height: 100px;
+    width: 600px;
+    margin:  0 300px;
+    align-items: center;
+    margin-top: 80px;
+}
+.extra-boss{
+    display: flex;
+    justify-content: space-around;
+  
+}
+.flower-hline-1{
+    font-size: 24px;
+}
