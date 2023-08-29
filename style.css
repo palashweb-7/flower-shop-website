@@ -92,3 +92,7 @@
 .flower-hline-1{
     font-size: 24px;
 }
+.four-flower-flex{
+    margin-top: 80px;
+    display: flex;
+}
